@@ -1,0 +1,34 @@
+body{
+margin:0;
+font-family:Segoe UI;
+background:linear-gradient(135deg,#87CEEB,#001f3f);
+color:white;
+}
+
+table{
+border-collapse:collapse;
+margin-top:20px;
+}
+
+td,th{
+padding:6px;
+}
+
+input{
+padding:6px;
+margin:4px;
+}
+
+button{
+padding:8px 12px;
+margin:4px;
+border:none;
+background:#007BFF;
+color:white;
+border-radius:4px;
+cursor:pointer;
+}
+
+button:hover{
+background:#0056b3;
+}
