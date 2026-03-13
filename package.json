@@ -1,0 +1,22 @@
+{
+  "name": "leonmud-cbe-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^10.12.0",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^11.0.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.12.7",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
